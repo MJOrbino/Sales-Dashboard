@@ -15,6 +15,11 @@ A Power BI dashboard designed to monitor sales performance and provide actionabl
   <img src="images/Sales_Dashboard.png" alt="Sales Dashboard Screenshot" width="1500"/>  
 </p>  
 
+## 📊 Model Overview  
+<p align="center">  
+  <img src="images/Relationships.png" alt="Model View Screenshot" width="1500"/>  
+</p>  
+
 **Key Features:**  
 - **Dataset:** Retail sales data (simulated for confidentiality)  
 - **Visuals:**  
